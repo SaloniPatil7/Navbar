@@ -11,10 +11,10 @@ Navbar Includes hover and click functionality for dropdown navigation items.
 Feel free to fork this repo and customize the navbar for your own projects!
 
 # Installation
-1]Clone the repository:
-Copy:- git clone https://github.com/SaloniPatil7/Navbar
-2]Navigate to the project directory:  
-Copy:- cd Navbar
+1]Clone the repository:  
+Copy:- git clone https://github.com/SaloniPatil7/Navbar  
+2]Navigate to the project directory:    
+Copy:- cd Navbar  
 Open index.html in your web browser to view the project.
 
 # Usage
